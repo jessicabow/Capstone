@@ -14,7 +14,7 @@ If we can better understand the features with the potential to reduce the amount
 |----|----|----|
 |**1**|[PetfinderClean.ipynb](https://github.com/jessicabow/Capstone/blob/main/PetfinderClean.ipynb)|Data collection using Petfinder API and Petpy wrapper. Data cleaning and feature engineering.|
 |**2**|[PetfinderEDA.ipynb](https://github.com/jessicabow/Capstone/blob/main/PetfinderEDA.ipynb)|Exploratory data analysis of clean Petfinder data for Northern California 2019-2020.|
-|**3**|[PetfinderModeling](https://github.com/jessicabow/Capstone/blob/main/PetfinderModeling.ipynb|Logistic Regression(numerical) and TFIDF + Naive Bayes(ordinal) binary classification prediction models.|
+|**3**|[PetfinderModeling](https://github.com/jessicabow/Capstone/blob/main/PetfinderModeling.ipynb|Logistic) Regression(numerical) and TFIDF + Naive Bayes(ordinal) binary classification prediction models.|
 |**4**|[](code/.ipynb)|TBD|
 
 ---
