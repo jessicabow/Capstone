@@ -7,7 +7,8 @@ Shelters in California are statistically underfunded and overcrowded. Many are s
 
 To tackle this problem I used the Petfinder API and petpy wrapper to collect Bay Area dog adoption data for dogs adopted 2019 through 2020.  I endeavor to discover the most influential features that contribute to a speedy dog adoption as well as what features tend to lead to a dog spending more time in rescue before finding their forever homes. I will accurately predict which dogs will be adopted in less than 2 weeks, and which will not.\
 \
-If we can better understand the features with the potential to reduce the amount of time a dog spends in rescue, we can reduce the strain on shelters, provide better services to dogs and humans alike and minimize the sad practice of euthanizing shelter dogs due to lack of space.
+If we can better understand the features with the potential to reduce the amount of time a dog spends in rescue, we can reduce the strain on shelters, provide better services to dogs and humans alike and minimize the sad practice of euthanizing shelter dogs due to lack of space.\
+\
 ---
 
 ### Contents
@@ -19,8 +20,8 @@ If we can better understand the features with the potential to reduce the amount
 |**4**|[4-Inference.ipynb](https://github.com/jessicabow/Capstone/blob/main/4-Inference.ipynb)|Post Modeling + Misclassification EDA (in support of Tableau visuals)|
 ---
 
-### Analysis Summary
-
+### Analysis + Summary
+**General Bay Area Distributions**\
 ![Age](https://github.com/jessicabow/Capstone/blob/main/images/Age.png)
 
 ![Size](https://github.com/jessicabow/Capstone/blob/main/images/Size.png)
@@ -54,7 +55,7 @@ After performing sentiment analysis on the description column it seems while the
 -More in depth application process. Weed out all but serious adopters to reduce strain on limited staff. \
 -Include details and unique mission statement on your Petfinder shelter page. \
 -Seek sponsorship with local business/corporation to incorporate more enrichment, better outreach and more funding (tax deductible for them!) \
--See the bright side - end descriptions on a positive note! \
+-See the bright side - end descriptions on a positive note! 
 
 ---
 
