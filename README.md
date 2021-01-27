@@ -20,6 +20,21 @@ If we can better understand the features with the potential to reduce the amount
 
 ### Analysis Summary
 
+![Age](https://github.com/jessicabow/Capstone/blob/main/images/Size.png)
+
+![Size](https://github.com/jessicabow/Capstone/blob/main/images/Size.png)
+
+![Breed](https://github.com/jessicabow/Capstone/blob/main/images/Breed.png)
+
+![Month](https://github.com/jessicabow/Capstone/blob/main/images/AdoptMonth%20(1).png)
+
+![AvgDays](https://github.com/jessicabow/Capstone/blob/main/images/map_daysonpetfinder.png)
+
+![AvgDays](https://github.com/jessicabow/Capstone/blob/main/images/map_daysonpetfinder.png)
+
+![Coef](https://github.com/jessicabow/Capstone/blob/main/images/Screen%20Shot%202021-01-27%20at%2010.32.12%20AM.png)
+
+![Confusion](https://github.com/jessicabow/Capstone/blob/main/images/download.png)
 
 
 
