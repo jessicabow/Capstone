@@ -14,9 +14,9 @@ If we can better understand the features with the potential to reduce the amount
 | Notebook | File Name | Description |
 |----|----|----|
 |**1**|[1-PetfinderClean.ipynb](https://github.com/jessicabow/Capstone/blob/main/1-PetfinderClean.ipynb)|Data collection using Petfinder API and Petpy wrapper. Data cleaning and feature engineering. EDA, exploratory LogReg and TFIDF model|
-|**2**|[2-Models.ipynb](https://github.com/jessicabow/Capstone/blob/main/2-Models.ipynb)|Exploratory data analysis of clean Petfinder data for Northern California 2019-2020.|
-|**3**|[3-FeatureUnion.ipynb](https://github.com/jessicabow/Capstone/blob/main/3-FeatureUnion.ipynb) Regression(numerical) and TFIDF + Naive Bayes(ordinal) binary classification prediction models.|
-|**4**|[4-Inference.ipynb](https://github.com/jessicabow/Capstone/blob/main/4-Inference.ipynb)|TBD|
+|**2**|[2-Models.ipynb](https://github.com/jessicabow/Capstone/blob/main/2-Models.ipynb)|LogReg, Bagging Classifier, Random Forest, AdaBoost and XGBoost Models|
+|**3**|[3-FeatureUnion.ipynb](https://github.com/jessicabow/Capstone/blob/main/3-FeatureUnion.ipynb)| TFIDF (ordinal) and LogReg (numerical) Feature Union Model + Misclassification DataFrame Creation|
+|**4**|[4-Inference.ipynb](https://github.com/jessicabow/Capstone/blob/main/4-Inference.ipynb)|Post Modeling + Misclassification EDA (in support of Tableau visuals)|
 ---
 
 ### Analysis Summary
