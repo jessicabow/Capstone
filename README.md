@@ -1,5 +1,5 @@
 ![](images/pets.jpg)
-# Petfinder: Adoption Speed Prediction
+# Petfinder: Bay Area Dog Adoption Speed Classification
 
 ### Background and Problem Statement
 
